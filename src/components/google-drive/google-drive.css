@@ -1,0 +1,33 @@
+.image {
+  /* display: flex; */
+
+  position: sticky;
+  top: 0;
+  /* border-bottom: thin; */
+  font-size: 2rem;
+  font-weight: 800;
+  /* background-color: white; */
+}
+
+.navbar__ {
+  justify-content: space-between !important;
+  /* padding-left: 20px; */
+  /* padding-right: 20px; */
+  /* flex-direction: column; */
+}
+.red {
+  color: red;
+}
+
+.file {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.image2 {
+  height: 40px;
+  width: 40px;
+}
+.loginbutton {
+  margin-top: 10px;
+}
